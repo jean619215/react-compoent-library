@@ -5,6 +5,10 @@
   "publishConfig": {
     "registry": "https://npm.pkg.github.com/jean619215"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jean619215/react-compoent-library.git"
+  },
   "scripts": {
     "rollup": "rollup -c"
   },
